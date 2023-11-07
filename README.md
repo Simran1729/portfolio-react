@@ -1,3 +1,13 @@
+## Screenshots
+![1](screenshots/ss1.png)
+![2](screenshots/ss2.png)
+![3](screenshots/ss3.png)
+![4](screenshots/ss4.png)
+![5](screenshots/ss5.png)
+![6](screenshots/ss6.png)
+![7](screenshots/ss7.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
