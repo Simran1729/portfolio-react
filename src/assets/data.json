@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "date": "07/01/2023",
+      "title": "WEB APP",
+      "description": "A simple general web app built using Node.js is a versatile platform designed to serve various purposes. It leverages the power of Node.js to handle server-side operations",
+      "url": "https://github.com/Simran1729",
+      "imgSrc": "https://cdn.pixabay.com/photo/2018/06/07/16/49/virtual-3460451_960_720.jpg"
+    },
+    {
+      "date": "11/05/2023",
+      "title": "VIDEO HUB",
+      "description": "A simple video playing app is a straightforward application that allows users to effortlessly view video content. It features a clean and intuitive user interface, making it easy to navigate through a library of videos.",
+      "url": "https://www.youtube.com",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "15/10/2023",
+      "title": "CryptoHUB",
+      "description": "A simple crypto app with a user-friendly platform designed to facilitate cryptocurrency-related functionalities. It features an intuitive interface, allowing users to easily navigate through the crypto world. ",
+      "url": "https://www.binance.com",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+    {
+      "date": "17/10/2023",
+      "title": "REACT CART",
+      "description": "The simple React e-commerce app is a user-friendly online platform designed to facilitate seamless shopping experiences. The app also includes a robust search and filtering system.",
+      "url": "https://www.amazon.com/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "01/11/2023",
+      "title": "PORTFOLIO",
+      "description": "A portfolio app with a visually appealing platform designed to showcase an individual's work in a compelling and organized manner. It features a clean, aesthetically pleasing user interface",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}
